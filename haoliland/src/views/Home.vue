@@ -1,10 +1,10 @@
 <template>
   <div class="home">
-     <top-head></top-head>
-     已完成
+    <top-header></top-header>
+    <bottom-footer></bottom-footer>
   </div>
 </template>
 
 <script>
- 
 </script>
+
