@@ -1,5 +1,5 @@
 module.exports = {
-    host: 'looca',
+    host: 'localhost',
     user: 'root',
     password: 'root',
     database: 'haolilaisql',
